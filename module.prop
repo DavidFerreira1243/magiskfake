@@ -1,0 +1,6 @@
+id=fake_camera_magisk
+name=Fake Camera Magisk Module
+version=1.0
+versionCode=1
+author=SeuNome
+description=Substitui a câmera real por uma imagem customizada.
